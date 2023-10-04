@@ -1,0 +1,357 @@
+29-09-2023 16-44-19 :: Starting the script.
+29-09-2023 16-44-19 :: *** RUNNING *** fetchnews.py.
+29-09-2023 16-44-19 :: Starting fetchnews.py script.
+29-09-2023 16-44-19 :: Fetching articles for search term 1/8: OpenAI
+29-09-2023 16-44-26 :: Fetched 5 articles for search term: OpenAI
+29-09-2023 16-44-26 :: Fetching articles for search term 2/8:  ChatGPT
+29-09-2023 16-44-27 :: Fetched 5 articles for search term:  ChatGPT
+29-09-2023 16-44-27 :: Fetching articles for search term 3/8:  GPT-4
+29-09-2023 16-44-27 :: Fetched 5 articles for search term:  GPT-4
+29-09-2023 16-44-27 :: Fetching articles for search term 4/8:  XAI
+29-09-2023 16-44-27 :: Fetched 0 articles for search term:  XAI
+29-09-2023 16-44-27 :: Fetching articles for search term 5/8:  Antrophic
+29-09-2023 16-44-28 :: Fetched 0 articles for search term:  Antrophic
+29-09-2023 16-44-28 :: Fetching articles for search term 6/8:  Azure Open AI
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Azure Open AI
+29-09-2023 16-44-28 :: Fetching articles for search term 7/8:  Microsoft Copilot
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Microsoft Copilot
+29-09-2023 16-44-28 :: Fetching articles for search term 8/8:  Artificial Intelligence
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Artificial Intelligence
+29-09-2023 16-44-28 :: Removed 7 duplicate articles based on URL.
+29-09-2023 16-44-28 :: Processed 23 articles and saved to CSV.
+29-09-2023 16-44-28 :: HTML file generated.
+29-09-2023 16-44-28 :: *** SUCCESSFULLY *** ran fetchnews.py.
+29-09-2023 16-44-28 :: 29-09-2023 16-44-19 :: Starting fetchnews.py script.
+29-09-2023 16-44-19 :: Fetching articles for search term 1/8: OpenAI
+29-09-2023 16-44-26 :: Fetched 5 articles for search term: OpenAI
+29-09-2023 16-44-26 :: Fetching articles for search term 2/8:  ChatGPT
+29-09-2023 16-44-27 :: Fetched 5 articles for search term:  ChatGPT
+29-09-2023 16-44-27 :: Fetching articles for search term 3/8:  GPT-4
+29-09-2023 16-44-27 :: Fetched 5 articles for search term:  GPT-4
+29-09-2023 16-44-27 :: Fetching articles for search term 4/8:  XAI
+29-09-2023 16-44-27 :: Fetched 0 articles for search term:  XAI
+29-09-2023 16-44-27 :: Fetching articles for search term 5/8:  Antrophic
+29-09-2023 16-44-28 :: Fetched 0 articles for search term:  Antrophic
+29-09-2023 16-44-28 :: Fetching articles for search term 6/8:  Azure Open AI
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Azure Open AI
+29-09-2023 16-44-28 :: Fetching articles for search term 7/8:  Microsoft Copilot
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Microsoft Copilot
+29-09-2023 16-44-28 :: Fetching articles for search term 8/8:  Artificial Intelligence
+29-09-2023 16-44-28 :: Fetched 5 articles for search term:  Artificial Intelligence
+29-09-2023 16-44-28 :: Removed 7 duplicate articles based on URL.
+29-09-2023 16-44-28 :: Processed 23 articles and saved to CSV.
+29-09-2023 16-44-28 :: HTML file generated.
+
+29-09-2023 16-44-28 :: *** RUNNING *** ai-filterfetchnews.py.
+29-09-2023 16-44-29 :: Starting the ai-filtering script.
+29-09-2023 16-44-30 :: No :: for Workday Generative AI To ‘Amplify’ Human Performance.
+29-09-2023 16-44-30 :: No :: for This Snoop Dogg AI Chatbot Can Soon Be Your Dungeon Master.
+29-09-2023 16-44-31 :: No :: for Technology Case Interview.
+29-09-2023 16-44-31 :: Yes :: for 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch.
+29-09-2023 16-44-31 ::     // Tokens used for this query: 153.
+29-09-2023 16-44-32 :: Yes :: for 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch.
+29-09-2023 16-44-32 ::     // Tokens used for this query: 306.
+29-09-2023 16-44-32 :: Yes :: for Vogue’s Controversial Exhibtion Will Show AI Images Alongside Real Photos.
+29-09-2023 16-44-32 ::     // Tokens used for this query: 426.
+29-09-2023 16-44-33 :: Yes :: for Forget the sell-off.
+29-09-2023 16-44-33 ::     // Tokens used for this query: 567.
+29-09-2023 16-44-33 :: Yes :: for This powerful ChatGPT feature is back from the dead — with a few key changes.
+29-09-2023 16-44-33 ::     // Tokens used for this query: 701.
+29-09-2023 16-44-34 :: No :: for Save $1,900 On Maxed Out 16-inch MacBook Pro With M1 Max Chip.
+29-09-2023 16-44-34 :: Yes :: for ChatGPT Outperformed The Top UK Money Manager By Nearly 5% And This Startup Is Giving Retail Investors The Tools To Do It For Their Startup Portfolios.
+29-09-2023 16-44-34 ::     // Tokens used for this query: 868.
+29-09-2023 16-44-34 :: Yes :: for ChatGPT predicts Tesla stock price after Cybertruck launch.
+29-09-2023 16-44-34 ::     // Tokens used for this query: 1009.
+29-09-2023 16-44-35 :: Yes :: for The Language Of AI: How Humans Communicate With LLMs.
+29-09-2023 16-44-35 ::     // Tokens used for this query: 1131.
+29-09-2023 16-44-35 :: Yes :: for MS Paint can now create images from text inputs: Microsoft rolls out DALL-E-powered Cocreator feature for AI-generated pictures.
+29-09-2023 16-44-35 ::     // Tokens used for this query: 1283.
+29-09-2023 16-44-36 :: Yes :: for Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course.
+29-09-2023 16-44-36 ::     // Tokens used for this query: 1420.
+29-09-2023 16-44-36 :: Yes :: for OpenAI Allows ChatGPT To Access Internet, Ushering A New Era Of Accessing Knowledge.
+29-09-2023 16-44-36 ::     // Tokens used for this query: 1573.
+29-09-2023 16-44-37 :: Yes :: for Windows 11 September Update with Copilot took away this File Explorer feature.
+29-09-2023 16-44-37 ::     // Tokens used for this query: 1692.
+29-09-2023 16-44-37 :: No :: for Windows 11 can now be set up specifically for developers.
+29-09-2023 16-44-38 :: No :: for Telcos are rapidly embracing GenAI, finds AWS.
+29-09-2023 16-44-38 :: Yes :: for Jony Ive and OpenAI CEO might build the iPhone of artificial intelligence.
+29-09-2023 16-44-38 ::     // Tokens used for this query: 1839.
+29-09-2023 16-44-39 :: Yes :: for What is Microsoft Azure? The cloud platform explained.
+29-09-2023 16-44-39 ::     // Tokens used for this query: 1979.
+29-09-2023 16-44-39 :: No :: for Oracle Opens New Region In Mexico, Now the Hyperscaler With Two Mexico Regions.
+29-09-2023 16-44-40 :: No :: for Billions of passwords and email addresses have been leaked online - so change your logins now.
+29-09-2023 16-44-40 :: No :: for Deploy Private LLMs using Databricks Model Serving.
+29-09-2023 16-44-40 :: Total number of items with 'No', so being filtered from news is: 9.
+29-09-2023 16-44-40 :: ai-filtered-news.html created in the html folder.
+29-09-2023 16-44-40 :: TOTAL TOKENS USED: 1979
+29-09-2023 16-44-40 :: *** SUCCESSFULLY *** ran ai-filterfetchnews.py.
+29-09-2023 16-44-40 :: 29-09-2023 16-44-29 :: Starting the ai-filtering script.
+29-09-2023 16-44-30 :: No :: for Workday Generative AI To ‘Amplify’ Human Performance.
+29-09-2023 16-44-30 :: No :: for This Snoop Dogg AI Chatbot Can Soon Be Your Dungeon Master.
+29-09-2023 16-44-31 :: No :: for Technology Case Interview.
+29-09-2023 16-44-31 :: Yes :: for 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch.
+29-09-2023 16-44-31 ::     // Tokens used for this query: 153.
+29-09-2023 16-44-32 :: Yes :: for 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch.
+29-09-2023 16-44-32 ::     // Tokens used for this query: 306.
+29-09-2023 16-44-32 :: Yes :: for Vogue’s Controversial Exhibtion Will Show AI Images Alongside Real Photos.
+29-09-2023 16-44-32 ::     // Tokens used for this query: 426.
+29-09-2023 16-44-33 :: Yes :: for Forget the sell-off.
+29-09-2023 16-44-33 ::     // Tokens used for this query: 567.
+29-09-2023 16-44-33 :: Yes :: for This powerful ChatGPT feature is back from the dead — with a few key changes.
+29-09-2023 16-44-33 ::     // Tokens used for this query: 701.
+29-09-2023 16-44-34 :: No :: for Save $1,900 On Maxed Out 16-inch MacBook Pro With M1 Max Chip.
+29-09-2023 16-44-34 :: Yes :: for ChatGPT Outperformed The Top UK Money Manager By Nearly 5% And This Startup Is Giving Retail Investors The Tools To Do It For Their Startup Portfolios.
+29-09-2023 16-44-34 ::     // Tokens used for this query: 868.
+29-09-2023 16-44-34 :: Yes :: for ChatGPT predicts Tesla stock price after Cybertruck launch.
+29-09-2023 16-44-34 ::     // Tokens used for this query: 1009.
+29-09-2023 16-44-35 :: Yes :: for The Language Of AI: How Humans Communicate With LLMs.
+29-09-2023 16-44-35 ::     // Tokens used for this query: 1131.
+29-09-2023 16-44-35 :: Yes :: for MS Paint can now create images from text inputs: Microsoft rolls out DALL-E-powered Cocreator feature for AI-generated pictures.
+29-09-2023 16-44-35 ::     // Tokens used for this query: 1283.
+29-09-2023 16-44-36 :: Yes :: for Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course.
+29-09-2023 16-44-36 ::     // Tokens used for this query: 1420.
+29-09-2023 16-44-36 :: Yes :: for OpenAI Allows ChatGPT To Access Internet, Ushering A New Era Of Accessing Knowledge.
+29-09-2023 16-44-36 ::     // Tokens used for this query: 1573.
+29-09-2023 16-44-37 :: Yes :: for Windows 11 September Update with Copilot took away this File Explorer feature.
+29-09-2023 16-44-37 ::     // Tokens used for this query: 1692.
+29-09-2023 16-44-37 :: No :: for Windows 11 can now be set up specifically for developers.
+29-09-2023 16-44-38 :: No :: for Telcos are rapidly embracing GenAI, finds AWS.
+29-09-2023 16-44-38 :: Yes :: for Jony Ive and OpenAI CEO might build the iPhone of artificial intelligence.
+29-09-2023 16-44-38 ::     // Tokens used for this query: 1839.
+29-09-2023 16-44-39 :: Yes :: for What is Microsoft Azure? The cloud platform explained.
+29-09-2023 16-44-39 ::     // Tokens used for this query: 1979.
+29-09-2023 16-44-39 :: No :: for Oracle Opens New Region In Mexico, Now the Hyperscaler With Two Mexico Regions.
+29-09-2023 16-44-40 :: No :: for Billions of passwords and email addresses have been leaked online - so change your logins now.
+29-09-2023 16-44-40 :: No :: for Deploy Private LLMs using Databricks Model Serving.
+29-09-2023 16-44-40 :: Total number of items with 'No', so being filtered from news is: 9.
+29-09-2023 16-44-40 :: ai-filtered-news.html created in the html folder.
+29-09-2023 16-44-40 :: TOTAL TOKENS USED: 1979
+
+29-09-2023 16-44-40 :: *** RUNNING *** news_scraper.py.
+29-09-2023 16-44-41 :: Starting the newsscraper script.
+29-09-2023 16-44-41 :: Loading environment variables...
+29-09-2023 16-44-41 :: Reading the news.csv file...
+29-09-2023 16-44-41 :: Successfully read the news.csv file. Found 14 articles.
+29-09-2023 16-44-41 :: Adding a new column for scraped data...
+29-09-2023 16-44-41 :: New column added.
+29-09-2023 16-44-41 :: Starting to scrape URLs...
+29-09-2023 16-44-41 :: Scraping 1 of 14: https://uk.pcmag.com/ai/148860/browse-with-bing-web-searches-return-to-chatgpt-after-paywall-glitch
+29-09-2023 16-44-41 :: Successfully scraped 1 of 14.
+29-09-2023 16-44-41 :: Scraping 2 of 14: https://me.pcmag.com/en/ai/19555/browse-with-bing-web-searches-return-to-chatgpt-after-paywall-glitch
+29-09-2023 16-44-41 :: Successfully scraped 2 of 14.
+29-09-2023 16-44-41 :: Scraping 3 of 14: https://petapixel.com/2023/09/28/vogues-controversial-exhibtion-will-show-ai-images-alongside-real-photos/
+29-09-2023 16-44-41 :: Successfully scraped 3 of 14.
+29-09-2023 16-44-41 :: Scraping 4 of 14: https://biztoc.com/x/fc4bf1b33ed9edd1
+29-09-2023 16-44-42 :: Successfully scraped 4 of 14.
+29-09-2023 16-44-42 :: Scraping 5 of 14: https://www.digitaltrends.com/computing/chatgpt-can-browse-the-internet-again/
+29-09-2023 16-44-42 :: Successfully scraped 5 of 14.
+29-09-2023 16-44-42 :: Scraping 6 of 14: https://biztoc.com/x/5699dbebb318daff
+29-09-2023 16-44-42 :: Successfully scraped 6 of 14.
+29-09-2023 16-44-42 :: Scraping 7 of 14: https://finbold.com/chatgpt-predicts-tesla-stock-price-after-cybertruck-launch/
+29-09-2023 16-44-42 :: Successfully scraped 7 of 14.
+29-09-2023 16-44-42 :: Scraping 8 of 14: https://www.forbes.com/sites/forbestechcouncil/2023/09/28/the-language-of-ai-how-humans-communicate-with-llms/
+29-09-2023 16-44-44 :: Successfully scraped 8 of 14.
+29-09-2023 16-44-44 :: Scraping 9 of 14: https://economictimes.indiatimes.com/magazines/panache/ms-paint-can-now-create-images-from-text-inputs-microsoft-rolls-out-dall-e-powered-cocreator-feature-for-ai-generated-pictures/articleshow/104022783.cms
+29-09-2023 16-44-44 :: Successfully scraped 9 of 14.
+29-09-2023 16-44-44 :: Scraping 10 of 14: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011511
+29-09-2023 16-44-45 :: Successfully scraped 10 of 14.
+29-09-2023 16-44-45 :: Scraping 11 of 14: https://techreport.com/news/openai-allows-chatgpt-to-access-internet-ushering-a-new-era-of-accessing-knowledge/
+29-09-2023 16-44-45 :: Successfully scraped 11 of 14.
+29-09-2023 16-44-45 :: Scraping 12 of 14: https://www.windowscentral.com/software-apps/windows-11/windows-11-september-update-with-copilot-took-away-this-file-explorer-feature
+29-09-2023 16-44-45 :: Successfully scraped 12 of 14.
+29-09-2023 16-44-45 :: Scraping 13 of 14: https://bgr.com/tech/jony-ive-and-openai-ceo-might-build-the-iphone-of-artificial-intelligence/
+29-09-2023 16-44-45 :: Successfully scraped 13 of 14.
+29-09-2023 16-44-45 :: Scraping 14 of 14: https://www.trustedreviews.com/explainer/what-is-microsoft-azure-4374209
+29-09-2023 16-44-45 :: Successfully scraped 14 of 14.
+29-09-2023 16-44-45 :: Saving the DataFrame to a new CSV file...
+29-09-2023 16-44-45 :: Scraping completed. The data has been saved to 'data/news-scraped.csv'.
+29-09-2023 16-44-45 :: Attempting to save the DataFrame to html/news-scraped.html...
+29-09-2023 16-44-45 :: The DataFrame has been successfully saved as an HTML file in html/news-scraped.html.
+29-09-2023 16-44-45 :: Finished running the newsscraper script.
+29-09-2023 16-44-45 :: *** SUCCESSFULLY *** ran news_scraper.py.
+29-09-2023 16-44-45 :: 29-09-2023 16-44-41 :: Starting the newsscraper script.
+29-09-2023 16-44-41 :: Loading environment variables...
+29-09-2023 16-44-41 :: Reading the news.csv file...
+29-09-2023 16-44-41 :: Successfully read the news.csv file. Found 14 articles.
+29-09-2023 16-44-41 :: Adding a new column for scraped data...
+29-09-2023 16-44-41 :: New column added.
+29-09-2023 16-44-41 :: Starting to scrape URLs...
+29-09-2023 16-44-41 :: Scraping 1 of 14: https://uk.pcmag.com/ai/148860/browse-with-bing-web-searches-return-to-chatgpt-after-paywall-glitch
+29-09-2023 16-44-41 :: Successfully scraped 1 of 14.
+29-09-2023 16-44-41 :: Scraping 2 of 14: https://me.pcmag.com/en/ai/19555/browse-with-bing-web-searches-return-to-chatgpt-after-paywall-glitch
+29-09-2023 16-44-41 :: Successfully scraped 2 of 14.
+29-09-2023 16-44-41 :: Scraping 3 of 14: https://petapixel.com/2023/09/28/vogues-controversial-exhibtion-will-show-ai-images-alongside-real-photos/
+29-09-2023 16-44-41 :: Successfully scraped 3 of 14.
+29-09-2023 16-44-41 :: Scraping 4 of 14: https://biztoc.com/x/fc4bf1b33ed9edd1
+29-09-2023 16-44-42 :: Successfully scraped 4 of 14.
+29-09-2023 16-44-42 :: Scraping 5 of 14: https://www.digitaltrends.com/computing/chatgpt-can-browse-the-internet-again/
+29-09-2023 16-44-42 :: Successfully scraped 5 of 14.
+29-09-2023 16-44-42 :: Scraping 6 of 14: https://biztoc.com/x/5699dbebb318daff
+29-09-2023 16-44-42 :: Successfully scraped 6 of 14.
+29-09-2023 16-44-42 :: Scraping 7 of 14: https://finbold.com/chatgpt-predicts-tesla-stock-price-after-cybertruck-launch/
+29-09-2023 16-44-42 :: Successfully scraped 7 of 14.
+29-09-2023 16-44-42 :: Scraping 8 of 14: https://www.forbes.com/sites/forbestechcouncil/2023/09/28/the-language-of-ai-how-humans-communicate-with-llms/
+29-09-2023 16-44-44 :: Successfully scraped 8 of 14.
+29-09-2023 16-44-44 :: Scraping 9 of 14: https://economictimes.indiatimes.com/magazines/panache/ms-paint-can-now-create-images-from-text-inputs-microsoft-rolls-out-dall-e-powered-cocreator-feature-for-ai-generated-pictures/articleshow/104022783.cms
+29-09-2023 16-44-44 :: Successfully scraped 9 of 14.
+29-09-2023 16-44-44 :: Scraping 10 of 14: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011511
+29-09-2023 16-44-45 :: Successfully scraped 10 of 14.
+29-09-2023 16-44-45 :: Scraping 11 of 14: https://techreport.com/news/openai-allows-chatgpt-to-access-internet-ushering-a-new-era-of-accessing-knowledge/
+29-09-2023 16-44-45 :: Successfully scraped 11 of 14.
+29-09-2023 16-44-45 :: Scraping 12 of 14: https://www.windowscentral.com/software-apps/windows-11/windows-11-september-update-with-copilot-took-away-this-file-explorer-feature
+29-09-2023 16-44-45 :: Successfully scraped 12 of 14.
+29-09-2023 16-44-45 :: Scraping 13 of 14: https://bgr.com/tech/jony-ive-and-openai-ceo-might-build-the-iphone-of-artificial-intelligence/
+29-09-2023 16-44-45 :: Successfully scraped 13 of 14.
+29-09-2023 16-44-45 :: Scraping 14 of 14: https://www.trustedreviews.com/explainer/what-is-microsoft-azure-4374209
+29-09-2023 16-44-45 :: Successfully scraped 14 of 14.
+29-09-2023 16-44-45 :: Saving the DataFrame to a new CSV file...
+29-09-2023 16-44-45 :: Scraping completed. The data has been saved to 'data/news-scraped.csv'.
+29-09-2023 16-44-45 :: Attempting to save the DataFrame to html/news-scraped.html...
+29-09-2023 16-44-45 :: The DataFrame has been successfully saved as an HTML file in html/news-scraped.html.
+29-09-2023 16-44-45 :: Finished running the newsscraper script.
+
+29-09-2023 16-44-45 :: *** RUNNING *** ai-summarizer.py.
+29-09-2023 16-44-46 :: Initializing the program...
+29-09-2023 16-44-46 :: Reading the existing news CSV file...
+29-09-2023 16-44-46 :: Processing item 1/14 - 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch...
+29-09-2023 16-44-51 :: Processed item 1/14 in 5.57 seconds.
+29-09-2023 16-44-51 :: Processing item 2/14 - 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch...
+29-09-2023 16-44-59 :: Processed item 2/14 in 7.40 seconds.
+29-09-2023 16-44-59 :: Processing item 3/14 - Vogue’s Controversial Exhibtion Will Show AI Images Alongside Real Photos...
+29-09-2023 16-45-06 :: Processed item 3/14 in 7.48 seconds.
+29-09-2023 16-45-06 :: Processing item 4/14 - Forget the sell-off...
+29-09-2023 16-45-11 :: Processed item 4/14 in 5.02 seconds.
+29-09-2023 16-45-11 :: Processing item 5/14 - This powerful ChatGPT feature is back from the dead — with a few key changes...
+29-09-2023 16-45-17 :: Processed item 5/14 in 6.04 seconds.
+29-09-2023 16-45-17 :: Processing item 6/14 - ChatGPT Outperformed The Top UK Money Manager By Nearly 5% And This Startup Is Giving Retail Investors The Tools To Do It For Their Startup Portfolios...
+29-09-2023 16-45-21 :: Processed item 6/14 in 3.69 seconds.
+29-09-2023 16-45-21 :: Processing item 7/14 - ChatGPT predicts Tesla stock price after Cybertruck launch...
+29-09-2023 16-45-28 :: Processed item 7/14 in 6.55 seconds.
+29-09-2023 16-45-28 :: Processing item 8/14 - The Language Of AI: How Humans Communicate With LLMs...
+29-09-2023 16-45-39 :: Processed item 8/14 in 11.89 seconds.
+29-09-2023 16-45-39 :: Processing item 9/14 - MS Paint can now create images from text inputs: Microsoft rolls out DALL-E-powered Cocreator feature for AI-generated pictures...
+29-09-2023 16-45-47 :: Processed item 9/14 in 7.16 seconds.
+29-09-2023 16-45-47 :: Processing item 10/14 - Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course...
+29-09-2023 16-45-57 :: Processed item 10/14 in 10.55 seconds.
+29-09-2023 16-45-57 :: Processing item 11/14 - OpenAI Allows ChatGPT To Access Internet, Ushering A New Era Of Accessing Knowledge...
+29-09-2023 16-46-05 :: Processed item 11/14 in 7.57 seconds.
+29-09-2023 16-46-05 :: Processing item 12/14 - Windows 11 September Update with Copilot took away this File Explorer feature...
+29-09-2023 16-46-13 :: Processed item 12/14 in 7.89 seconds.
+29-09-2023 16-46-13 :: Processing item 13/14 - Jony Ive and OpenAI CEO might build the iPhone of artificial intelligence...
+29-09-2023 16-46-18 :: Processed item 13/14 in 5.66 seconds.
+29-09-2023 16-46-18 :: Processing item 14/14 - What is Microsoft Azure? The cloud platform explained...
+29-09-2023 16-46-26 :: Processed item 14/14 in 7.35 seconds.
+29-09-2023 16-46-26 :: Total time: 99.81 seconds.
+29-09-2023 16-46-26 :: CSV files updated.
+29-09-2023 16-46-26 :: Running aisummary-to-html.py...
+29-09-2023 16-46-26 :: Starting aisummarizertohtml script.
+29-09-2023 16-46-26 :: Reading CSV file.
+29-09-2023 16-46-26 :: Loading CSS.
+29-09-2023 16-46-26 :: Initializing HTML content.
+29-09-2023 16-46-26 :: Formatting summary for row 0.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 1.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 2.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 3.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 4.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 5.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 6.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 7.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 8.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 9.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 10.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 11.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 12.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 13.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Writing HTML content to file.
+29-09-2023 16-46-26 :: HTML file created successfully.
+29-09-2023 16-46-26 :: Successfully ran aisummary-to-html.py.
+29-09-2023 16-46-26 :: Program completed.
+29-09-2023 16-46-26 :: *** SUCCESSFULLY *** ran ai-summarizer.py.
+29-09-2023 16-46-26 :: 29-09-2023 16-46-26 :: Starting aisummarizertohtml script.
+29-09-2023 16-46-26 :: Reading CSV file.
+29-09-2023 16-46-26 :: Loading CSS.
+29-09-2023 16-46-26 :: Initializing HTML content.
+29-09-2023 16-46-26 :: Formatting summary for row 0.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 1.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 2.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 3.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 4.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 5.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 6.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 7.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 8.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 9.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 10.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 11.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 12.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Formatting summary for row 13.
+29-09-2023 16-46-26 :: Formatting summary.
+29-09-2023 16-46-26 :: Writing HTML content to file.
+29-09-2023 16-46-26 :: HTML file created successfully.
+29-09-2023 16-44-46 :: Initializing the program...
+29-09-2023 16-44-46 :: Reading the existing news CSV file...
+29-09-2023 16-44-46 :: Processing item 1/14 - 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch...
+29-09-2023 16-44-51 :: Processed item 1/14 in 5.57 seconds.
+29-09-2023 16-44-51 :: Processing item 2/14 - 'Browse With Bing' Web Searches Return to ChatGPT After Paywall Glitch...
+29-09-2023 16-44-59 :: Processed item 2/14 in 7.40 seconds.
+29-09-2023 16-44-59 :: Processing item 3/14 - Vogue’s Controversial Exhibtion Will Show AI Images Alongside Real Photos...
+29-09-2023 16-45-06 :: Processed item 3/14 in 7.48 seconds.
+29-09-2023 16-45-06 :: Processing item 4/14 - Forget the sell-off...
+29-09-2023 16-45-11 :: Processed item 4/14 in 5.02 seconds.
+29-09-2023 16-45-11 :: Processing item 5/14 - This powerful ChatGPT feature is back from the dead — with a few key changes...
+29-09-2023 16-45-17 :: Processed item 5/14 in 6.04 seconds.
+29-09-2023 16-45-17 :: Processing item 6/14 - ChatGPT Outperformed The Top UK Money Manager By Nearly 5% And This Startup Is Giving Retail Investors The Tools To Do It For Their Startup Portfolios...
+29-09-2023 16-45-21 :: Processed item 6/14 in 3.69 seconds.
+29-09-2023 16-45-21 :: Processing item 7/14 - ChatGPT predicts Tesla stock price after Cybertruck launch...
+29-09-2023 16-45-28 :: Processed item 7/14 in 6.55 seconds.
+29-09-2023 16-45-28 :: Processing item 8/14 - The Language Of AI: How Humans Communicate With LLMs...
+29-09-2023 16-45-39 :: Processed item 8/14 in 11.89 seconds.
+29-09-2023 16-45-39 :: Processing item 9/14 - MS Paint can now create images from text inputs: Microsoft rolls out DALL-E-powered Cocreator feature for AI-generated pictures...
+29-09-2023 16-45-47 :: Processed item 9/14 in 7.16 seconds.
+29-09-2023 16-45-47 :: Processing item 10/14 - Evaluating a large language model’s ability to solve programming exercises from an introductory bioinformatics course...
+29-09-2023 16-45-57 :: Processed item 10/14 in 10.55 seconds.
+29-09-2023 16-45-57 :: Processing item 11/14 - OpenAI Allows ChatGPT To Access Internet, Ushering A New Era Of Accessing Knowledge...
+29-09-2023 16-46-05 :: Processed item 11/14 in 7.57 seconds.
+29-09-2023 16-46-05 :: Processing item 12/14 - Windows 11 September Update with Copilot took away this File Explorer feature...
+29-09-2023 16-46-13 :: Processed item 12/14 in 7.89 seconds.
+29-09-2023 16-46-13 :: Processing item 13/14 - Jony Ive and OpenAI CEO might build the iPhone of artificial intelligence...
+29-09-2023 16-46-18 :: Processed item 13/14 in 5.66 seconds.
+29-09-2023 16-46-18 :: Processing item 14/14 - What is Microsoft Azure? The cloud platform explained...
+29-09-2023 16-46-26 :: Processed item 14/14 in 7.35 seconds.
+29-09-2023 16-46-26 :: Total time: 99.81 seconds.
+29-09-2023 16-46-26 :: CSV files updated.
+29-09-2023 16-46-26 :: Running aisummary-to-html.py...
+29-09-2023 16-46-26 :: Successfully ran aisummary-to-html.py.
+29-09-2023 16-46-26 :: Program completed.
+
+29-09-2023 16-46-26 :: *** RUNNING *** sendmail.py.
+29-09-2023 16-46-28 :: Email sent *** SUCCESSFULLY *** with subject Your AI News Summary.
+29-09-2023 16-46-28 :: Cleaning up old log files.
+29-09-2023 16-46-28 :: Finished running the script.

@@ -1,0 +1,158 @@
+Date,Script,Number of Queries,Prompt Tokens,Completion Tokens,Cost Input,Cost Output,Total Cost
+29-09-2023 15-49-50,ai-filtering script,3,433,3,0.002598,0.00035999999999999997,0.002958
+29-09-2023 15-52-22,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 15-53-40,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 15-54-16,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 15-59-09,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 16-00-40,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 16-03-17,ai-filtering script,3,139,1,436,0.002598,0.00035999999999999997,0.002958
+29-09-2023 16-19-48,ai-filtering script,2,151,1,274,0.001632,0.00023999999999999998,0.001872
+ai-summarizer.py,1943
+ai-summarizer.py,4104
+29-09-2023 16-27-03,ai-filtering script,13,139,1,1843,0.010979999999999998,0.0015599999999999993,0.012539999999999997
+ai-summarizer.py,388
+ai-summarizer.py,1277
+ai-summarizer.py,5494
+ai-summarizer.py,1964
+ai-summarizer.py,1557
+ai-summarizer.py,371
+ai-summarizer.py,4091
+ai-summarizer.py,13294
+ai-summarizer.py,4356
+ai-summarizer.py,1137
+ai-summarizer.py,1336
+ai-summarizer.py,2110
+ai-summarizer.py,1811
+ai-summarizer.py,381
+ai-summarizer.py,1293
+ai-summarizer.py,5512
+ai-summarizer.py,1949
+ai-summarizer.py,1544
+ai-summarizer.py,375
+ai-summarizer.py,4100
+ai-summarizer.py,13288
+ai-summarizer.py,4392
+ai-summarizer.py,1149
+ai-summarizer.py,1326
+ai-summarizer.py,2136
+ai-summarizer.py,1827
+29-09-2023 16-44-40,ai-filtering script,14,139,1,1979,0.011789999999999998,0.0016799999999999992,0.013469999999999998
+ai-summarizer.py,1471
+ai-summarizer.py,1065
+ai-summarizer.py,1438
+ai-summarizer.py,409
+ai-summarizer.py,2640
+ai-summarizer.py,455
+ai-summarizer.py,1383
+ai-summarizer.py,1923
+ai-summarizer.py,4100
+ai-summarizer.py,13296
+ai-summarizer.py,4384
+ai-summarizer.py,1120
+ai-summarizer.py,2109
+ai-summarizer.py,1835
+29-09-2023 16-58-39,ai-filtering script,11,139,1,1534,0.009138,0.0013199999999999996,0.010458
+ai-summarizer.py,3500
+ai-summarizer.py,2227
+ai-summarizer.py,2125
+ai-summarizer.py,530
+ai-summarizer.py,968
+ai-summarizer.py,1180
+ai-summarizer.py,1582
+ai-summarizer.py,4182
+ai-summarizer.py,13385
+ai-summarizer.py,1256
+ai-summarizer.py,1920
+30-09-2023 11-38-18,ai-filtering script,13,134,1,1824,0.010866,0.0015599999999999993,0.012426
+ai-summarizer.py,4209
+ai-summarizer.py,1780
+ai-summarizer.py,474
+ai-summarizer.py,2320
+ai-summarizer.py,2276
+ai-summarizer.py,505
+ai-summarizer.py,3142
+ai-summarizer.py,1902
+ai-summarizer.py,3066
+ai-summarizer.py,2814
+ai-summarizer.py,1194
+ai-summarizer.py,1019
+ai-summarizer.py,2689
+03-10-2023 21-05-20,ai-filtering script,20,138,1,2677,0.015942,0.0023999999999999985,0.018342
+03-10-2023 22-07-49,ai-filtering script,15,138,1,2124,0.012654000000000002,0.001799999999999999,0.014454000000000002
+ai-summarizer.py,4429
+ai-summarizer.py,470
+ai-summarizer.py,569
+ai-summarizer.py,3339
+ai-summarizer.py,2387
+ai-summarizer.py,1751
+ai-summarizer.py,3569
+ai-summarizer.py,3514
+ai-summarizer.py,2076
+ai-summarizer.py,2363
+ai-summarizer.py,3543
+ai-summarizer.py,2736
+ai-summarizer.py,1371
+ai-summarizer.py,14899
+ai-summarizer.py,2200
+03-10-2023 22-42-44,ai-filtering script,14,138,1,1997,0.011898000000000002,0.0016799999999999992,0.013578000000000002
+ai-summarizer.py,1829
+ai-summarizer.py,1017
+ai-summarizer.py,522
+ai-summarizer.py,2232
+ai-summarizer.py,479
+ai-summarizer.py,3334
+ai-summarizer.py,2387
+ai-summarizer.py,3532
+ai-summarizer.py,2049
+ai-summarizer.py,3558
+ai-summarizer.py,2707
+ai-summarizer.py,1366
+ai-summarizer.py,14878
+ai-summarizer.py,2166
+04-10-2023 08-54-00,ai-filtering script,14,138,1,1933,0.011514000000000003,0.0016799999999999992,0.013194000000000003
+ai-summarizer.py,565
+ai-summarizer.py,2019
+ai-summarizer.py,2227
+ai-summarizer.py,2186
+ai-summarizer.py,2483
+ai-summarizer.py,1966
+ai-summarizer.py,2647
+ai-summarizer.py,3537
+ai-summarizer.py,2047
+ai-summarizer.py,3603
+ai-summarizer.py,2697
+ai-summarizer.py,1329
+ai-summarizer.py,14894
+ai-summarizer.py,2184
+04-10-2023 09-02-56,ai-filtering script,14,154,1,1960,0.011676,0.0016799999999999992,0.013356
+ai-summarizer.py,1807
+ai-summarizer.py,4685
+ai-summarizer.py,624
+ai-summarizer.py,2020
+ai-summarizer.py,2239
+ai-summarizer.py,2187
+ai-summarizer.py,2479
+ai-summarizer.py,1954
+ai-summarizer.py,3572
+ai-summarizer.py,2043
+ai-summarizer.py,3578
+ai-summarizer.py,2741
+ai-summarizer.py,1342
+ai-summarizer.py,14927
+04-10-2023 10-50-57,ai-filtering script,16,154,1,2273,0.013541999999999998,0.001919999999999999,0.015461999999999997
+ai-summarizer.py,2047
+ai-summarizer.py,1475
+ai-summarizer.py,1904
+ai-summarizer.py,127
+ai-summarizer.py,3121
+ai-summarizer.py,3470
+ai-summarizer.py,1096
+ai-summarizer.py,2697
+ai-summarizer.py,1737
+ai-summarizer.py,4706
+ai-summarizer.py,2198
+ai-summarizer.py,2176
+ai-summarizer.py,3555
+ai-summarizer.py,2019
+ai-summarizer.py,2714
+ai-summarizer.py,14894
